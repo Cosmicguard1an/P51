@@ -43,3 +43,9 @@ h4{
 p{
     text-align: center;
 }
+
+body{
+    background-color: #107010;
+    color: #696969;
+    border-style: outset;
+}
